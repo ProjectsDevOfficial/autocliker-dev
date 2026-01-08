@@ -16,13 +16,13 @@
 
 Исходный код для каждой стабильной и бета-сборки доступен для ознакомления и изучения.
 
-🔗 **Все версии исходного кода**: **[opensource-versions](https://github.com/ProjectsDevOfficial/autocliker-dev/tree/main/opensource-versions)**
+🔗 **Все версии исходного кода**: **[клик](https://github.com/ProjectsDevOfficial/autocliker-dev/tree/main/opensource-versions)**
 
 ## 🚀 Готовые Сборки (.exe)
 
 Если вы хотите использовать программу без компиляции, скачайте последнюю сборку:
 
-⬇️ **Релизы**: **[github.com](<https://github.com/ProjectsDevOfficial/autocliker-dev/releases/latest>)**
+⬇️ **Релизы**: **[клик](<https://github.com/ProjectsDevOfficial/autocliker-dev/releases/latest>)**
 
 ## ⚖️ Лицензия
 
